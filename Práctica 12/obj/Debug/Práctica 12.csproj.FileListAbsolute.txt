@@ -1,0 +1,12 @@
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 12\Práctica 12\bin\Debug\Práctica 12.exe.config
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 12\Práctica 12\bin\Debug\Práctica 12.exe
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 12\Práctica 12\bin\Debug\Práctica 12.pdb
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 12\Práctica 12\obj\Debug\Práctica 12.csprojResolveAssemblyReference.cache
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 12\Práctica 12\obj\Debug\Práctica 12.exe
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 12\Práctica 12\obj\Debug\Práctica 12.pdb
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 12\bin\Debug\Práctica 12.exe.config
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 12\bin\Debug\Práctica 12.exe
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 12\bin\Debug\Práctica 12.pdb
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 12\obj\Debug\Práctica 12.csprojAssemblyReference.cache
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 12\obj\Debug\Práctica 12.exe
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 12\obj\Debug\Práctica 12.pdb
